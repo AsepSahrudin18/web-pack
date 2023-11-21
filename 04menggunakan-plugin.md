@@ -143,4 +143,3 @@ Lakukan build kembali proyek dengan menjalankan perintah npm run build. Dengan d
 Sekarang seluruh komponen yang dibutuhkan untuk menjalankan proyek WebClock sudah terdapat pada folder dist. Untuk menjalankan proyek WebClock kita cukup membuka berkas index.html pada browser. Bahkan sekarang kita bisa mengunggah aplikasi WebClock pada internet dengan men-deploy seluruh berkas yang terdapat pada folder dist. Dengan kata lain, seluruh berkas yang dibutuhkan untuk tahap production sudah terdapat di dalam folder dist.
 
 Selamat! Sejauh ini kita sudah berhasil menggunakan webpack untuk membantu pengembangan aplikasi web hingga ke tahap production. Namun pembahasan webpack belum berakhir di sini yah. Pada materi selanjutnya kita akan belajar fitur lain yang tak kalah menarik, yaitu Webpack Dev Server. Siap? Let’s go!
-
