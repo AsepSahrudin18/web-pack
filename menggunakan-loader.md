@@ -83,3 +83,6 @@ Setelah itu, silakan jalankan kembali script build untuk menghasilkan berkas bun
 Selamat! Itu artinya, Anda berhasil menerapkan styling dengan cara modular menggunakan webpack loader. Jika Anda lihat pada berkas bundle.js saat ini, kita dapat menemukan styling yang dituliskan. 
 
 ![Alt text](image-11.png)
+
+Hal inilah mengapa styling dapat diterapkan tanpa harus menggunakan tag <link> pada berkas index.html.
+
