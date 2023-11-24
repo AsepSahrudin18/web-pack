@@ -73,3 +73,4 @@ Solusinya, pisahkan webpack configuration untuk development dan production.
 
 #### Catatan:
 Untuk menghentikan service webpack-dev-server, gunakan kombinasi CTRL+C pada terminal yang digunakan. Ingatlah bahwa sebaiknya kita hentikan service webpack-dev-server setiap kali ingin melakukan perubahan pada berkas webpack configuration.
+
